@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm ShiXing, a student from GuangDong University of Technology. I’m currently learning front-end technology. And I’m looking for help with a front-end expert.
 <!--
 **shi-xing/shi-xing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
